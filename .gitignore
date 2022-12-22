@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+#Adding additional files
+CSS/
+Practice.ipynb
+css_case_study.ipynb
+html_case_study.ipynb
+index7.html
+mars_facts.ipynb
+mars_news.ipynb
+put_it_together.ipynb
+scrape_across.ipynb
+
+
 # Distribution / packaging
 .Python
 build/
